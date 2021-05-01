@@ -1,0 +1,4 @@
+//npm.remix.run/:_authToken=***
+@remix-run:registry=https://npm.remix.run
+@fortawesome:registry=https://npm.fontawesome.com/
+//npm.fontawesome.com/:_authToken=***
